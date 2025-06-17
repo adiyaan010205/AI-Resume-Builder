@@ -40,35 +40,35 @@ The AI Resume Builder is a modern web application designed to simplify and enhan
 ## Preview
 
 ### Personal Info
-Screenshot 2025-06-17 074104.png
+![Screenshot 2025-06-17 074104](https://github.com/user-attachments/assets/f8b6e32a-9c02-4595-a197-7129a77c9db8)
 
 ### Summary
-image.png
+![Screenshot 2025-06-17 080547](https://github.com/user-attachments/assets/9aab4c19-86df-43e8-b048-b24082b7fe9a)
 
 ### Improving with AI
-image.png
+![Screenshot 2025-06-17 080632](https://github.com/user-attachments/assets/fc07b60d-6f46-44d5-9bc9-e7bae932b4f2)
 
-image.png
+![Screenshot 2025-06-17 080654](https://github.com/user-attachments/assets/3c42498a-814e-4b3b-83d6-d5a2ee95d5cc)
 
 ### Experience 
-Screenshot 2025-06-17 074306.png
+![Screenshot 2025-06-17 074306](https://github.com/user-attachments/assets/547e6311-f9d8-46d5-ad0e-6913aa6f9942)
 
 ### Enhancing with AI
-Screenshot 2025-06-17 074509.png
+![Screenshot 2025-06-17 074509](https://github.com/user-attachments/assets/60ef06fb-e3ec-4358-98e7-c9776c807190)
 
-image.png
+![Screenshot 2025-06-17 075201](https://github.com/user-attachments/assets/c3327993-ebb8-4318-af5c-c0f1da2f645c)
 
 ### Education
-image.png
+![Screenshot 2025-06-17 080946](https://github.com/user-attachments/assets/328487fb-a258-489c-9127-f4c7a84f85b1)
 
 ### Skills
-image.png
+![Screenshot 2025-06-17 081034](https://github.com/user-attachments/assets/74de0fb4-3d42-4a94-bd01-aaf0654022e6)
 
 ### Projects
-image.png
+![Screenshot 2025-06-17 081139](https://github.com/user-attachments/assets/eebf5e02-f60c-4d11-950f-b937b92c987d)
 
 ### Live Preview
-image.png
+![Screenshot 2025-06-17 081214](https://github.com/user-attachments/assets/9fefb850-c595-46d6-a17d-475b12c77aa9)
 
 ## Project Structure
 
