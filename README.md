@@ -99,8 +99,8 @@ Follow these instructions to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd AI-Resume-Builder/ai-resume-builder
+git clone https://github.com/adiyaan010205/AI-Resume-Builder.git
+cd AI-Resume-Builder
 ```
 
 ### 2. Backend Setup
