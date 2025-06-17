@@ -37,6 +37,39 @@ The AI Resume Builder is a modern web application designed to simplify and enhan
 *   **Puppeteer / pdf-lib:** For PDF generation.
 *   **Google Gemini API:** (Future integration) For AI capabilities.
 
+## Preview
+
+### Personal Info
+Screenshot 2025-06-17 074104.png
+
+### Summary
+image.png
+
+### Improving with AI
+image.png
+
+image.png
+
+### Experience 
+Screenshot 2025-06-17 074306.png
+
+### Enhancing with AI
+Screenshot 2025-06-17 074509.png
+
+image.png
+
+### Education
+image.png
+
+### Skills
+image.png
+
+### Projects
+image.png
+
+### Live Preview
+image.png
+
 ## Project Structure
 
 The project is divided into three main parts: `client` (frontend), `server` (backend), and `shared` (common constants and types).
